@@ -1,0 +1,6 @@
+Explanation of the program:
+The program is a loop that iterates 5 times (n = 1 to 5). For each iteration:
+
+It calculates x as n * 0.1
+It calls a function myfunc2(x, 2, 3, 7) and assigns the result to z
+It prints the values of x and z in a formatted string

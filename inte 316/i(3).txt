@@ -1,0 +1,6 @@
+ The main differences are:
+
+Computation: Newton's method is generally more efficient for adding new points to an existing interpolation.
+Stability: Newton's method is typically more numerically stable for higher-degree polynomials.
+Ease of understanding: Lagrange's method is often easier to understand conceptually.
+Flexibility: Newton's method allows for easy computation of lower degree polynomials from the same divided difference table.

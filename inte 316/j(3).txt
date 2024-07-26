@@ -1,0 +1,4 @@
+Comparison:
+
+The Power Iteration method finds only the dominant eigenvalue and its corresponding eigenvector,
+ while the QR Algorithm finds all eigenvalues and eigenvectors.
